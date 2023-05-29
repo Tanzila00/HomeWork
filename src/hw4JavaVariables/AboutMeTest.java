@@ -19,7 +19,7 @@ public class AboutMeTest {
 		System.out.println("\n---------------------------------------------------");
 
 		AboutMe tanisha = new AboutMe();
-		tanisha.full_name = "Tareen Zafar";// variable initialized
+		tanisha.full_name = "Alex";// variable initialized
 		tanisha.road_no = 20;
 		tanisha.floor_no = 3;
 		tanisha.my_salary = 10000;
