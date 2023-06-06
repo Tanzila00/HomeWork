@@ -11,7 +11,7 @@ public class ComputerTest {
 		System.out.println("\n-------");
 		Computer myComputer04 = new Computer("Apple", "MacBook Air", "MacOS Mojave", 800, 'A', false);
 		System.out.println("\n-------");
-		Computer myComputer05 = new Computer("Windows", "Intel Corei5", 1000, 'B', true);
+		Computer myComputer05 = new Computer("Windows", "Intel Corei5",1000, 'B', true);
 
 	}
 }
