@@ -1,6 +1,6 @@
 package hw10Abstraction;
 
-public interface University extends College, Hospital {
+public interface University extends College, Hospital{
 	/*
 	 * Extends is the only keyword used for inheritance in interface Interface can
 	 * inherit only interface class, regular or abstract class cannot be used It can

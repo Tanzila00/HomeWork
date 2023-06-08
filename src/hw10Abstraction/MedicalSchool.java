@@ -8,7 +8,7 @@ public abstract class MedicalSchool extends NursingSchool {
 	 * class.
 	 */
 	public MedicalSchool() {// default constructor
-
+System.out.println("This is a default constructor from MedicalSchool class ");
 	}
 
 	public abstract void anatomyLab();// abstract class
