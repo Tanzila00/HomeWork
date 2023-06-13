@@ -7,7 +7,7 @@ public abstract class MedicalSchool extends NursingSchool {
 	 * example: abstract class MedicalSchool can inherit NursingSchool abstract
 	 * class.
 	 */
-	public MedicalSchool() {// default constructor
+	public MedicalSchool() {// default constructor is created
 System.out.println("This is a default constructor from MedicalSchool class ");
 	}
 
