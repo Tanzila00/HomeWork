@@ -1,4 +1,4 @@
-package hw8Abstraction;
+package hw11Abstraction;
 
 public abstract class NursingSchool {
 	public abstract void hygiene();

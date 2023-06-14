@@ -1,4 +1,4 @@
-package hw8Abstraction;
+package hw11Abstraction;
 
 public class NYUniversity {
 	public void anthropology() {

@@ -1,4 +1,4 @@
-package hw8Abstraction;
+package hw11Abstraction;
 
 public abstract class EngineeringSchool {
 	public abstract void mechanicalLab();

@@ -3,7 +3,7 @@ package hw10Abstraction;
 public class ColumbiaUniversity extends MedicalSchool {
 	/*
 	 * Regular class use extends keyword to inherit one regular class or one
-	 * abstract class. It can inherit more than one regular/abstract class For
+	 * abstract class. It can't inherit more than one regular/abstract class For
 	 * example: regular class ColumbiaUniversity can inherit MedicalSchool abstract
 	 * class.
 	 */

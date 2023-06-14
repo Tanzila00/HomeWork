@@ -1,4 +1,4 @@
-package hw8Abstraction;
+package hw11Abstraction;
 
 public interface LawSchool {
 	public void lawInfo();
