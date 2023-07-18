@@ -10,6 +10,9 @@ package hw12Polymorphism;
 
 public class Sister {// parameterized return type method-01
 
+	public void sister() {
+		System.out.println("This is the void type method for sister class");
+	}
 	public int sister(int age1, int age2, int age3) {
 		int total1 = age1 + age2 + age3;
 		System.out.println("The total age from return parameterized type:" + total1);
